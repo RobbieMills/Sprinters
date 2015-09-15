@@ -1,0 +1,10 @@
+Concept
+
+Sprinter = rect 
+
+5 Sprinter objects (1,2,3,4 and 5) inheriting methods from parent Sprinter Object
+
+Sprinters have random speeds
+Random Sprinter crosses the finish line first
+
+User selects which Sprinter they think will win
