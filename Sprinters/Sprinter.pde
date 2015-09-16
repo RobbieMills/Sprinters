@@ -1,0 +1,6 @@
+class Sprinter {
+
+
+  Sprinter() {
+  }
+}
