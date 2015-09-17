@@ -1,6 +1,6 @@
-class Sprinter4 extends Sprinter {
+//class Sprinter4 extends Sprinter {
 
 
-  Sprinter4() {
-  }
-}
+//  Sprinter4() {
+//  }
+//}
